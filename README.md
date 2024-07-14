@@ -14,12 +14,5 @@ Easy_Manage is a web application designed to help users keep track of their acti
 - **Backend:** Django
 - **Database:** [MongoDB]
 
-## Installation
 
-To run Easy_Manage locally, follow these steps:
-
-1. Clone the repository:
-
-git clone https://github.com/your_username/Easy_Manage.git
-cd Easy_Manage
 

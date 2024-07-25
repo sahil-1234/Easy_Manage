@@ -38,8 +38,7 @@ class CustomModal extends Component {
         
           <Form>
 
-            {/* 3 formgroups
-            1 title label */}
+            
             <FormGroup>
               <Label for="title">Title</Label>
               <Input

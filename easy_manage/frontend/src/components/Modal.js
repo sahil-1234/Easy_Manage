@@ -62,7 +62,7 @@ class CustomModal extends Component {
               />
             </FormGroup>
 
-            {/* 3 completed label */}
+           
             <FormGroup check>
               <Label for="completed">
                 <Input

@@ -76,7 +76,7 @@ class CustomModal extends Component {
             </FormGroup>
           </Form>
         </ModalBody>
-        {/* create a modal footer */}
+       
         <ModalFooter>
           <Button color="success" onClick={() => onSave(this.state.activeItem)}>
             Save

@@ -50,7 +50,7 @@ class CustomModal extends Component {
               />
             </FormGroup>
 
-            {/* 2 description label */}
+            
             <FormGroup>
               <Label for="description">Description</Label>
               <Input

@@ -2,7 +2,7 @@
 
 
 
-For more information on this file, see
+
 https://docs.djangoproject.com/en/4.2/howto/deployment/wsgi/
 """
 

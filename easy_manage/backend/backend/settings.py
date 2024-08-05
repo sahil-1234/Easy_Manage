@@ -105,7 +105,7 @@ USE_L10N = True
 USE_TZ = True
 
 
-# S
+
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'

@@ -106,7 +106,7 @@ USE_TZ = True
 
 
 
-# https://docs.djangoproject.com/en/3.1/howto/static-files/
+# https://docs.djangoproject.com/en/3.
 
 STATIC_URL = '/static/'
 

@@ -106,7 +106,7 @@ USE_TZ = True
 
 
 
-# https://docs.
+
 
 STATIC_URL = '/static/'
 

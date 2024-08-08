@@ -116,4 +116,4 @@ CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
 )
 
-'''Django-cors-headers is a python library that will help in preventing the errors that we would normally get due to CORS. rules. In the CORS_ORIGIN_WHITELIST snippet, we whitelisted localhost:3000 because we want the frontend (which will be served on that port) of the application to interact with the API.'''
+'''Django-cors-headers is a python library tors that we would normally get due to CORS. rules. In the CORS_ORIGIN_WHITELIST snippet, we whitelisted localhost:3000 because we want the frontend (which will be served on that port) of the application to interact with the API.'''

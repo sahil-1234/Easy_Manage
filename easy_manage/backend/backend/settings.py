@@ -116,4 +116,4 @@ CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
 )
 
-'''Django-cors-headet, we whitelisted localhost:3000 because we want the frontend (which will be served on that port) of the application to interact with the API.'''
+

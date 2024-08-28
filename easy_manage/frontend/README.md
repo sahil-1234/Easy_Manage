@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped 
+This project was bootstr
 
 
 

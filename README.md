@@ -12,7 +12,7 @@ Easy_Manage is a web application designed to help users keep track of their acti
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Django
-- **Database:** [MongoDB]
+- *Database:** [MongoDB]
 
 
 
